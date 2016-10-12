@@ -1,7 +1,7 @@
 <%-- 
     Document   : Potree
     Created on : 10-oct-2016, 12:27:20
-    Author     : jrodarte
+    Author     : alrodriguez
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -118,8 +118,10 @@
 
 		//viewer.addPointCloud("pointclouds/barcelona/cloud.js");
 		
-		//viewer.loadGUI();
     %>
+        		viewer.loadGUI();
+
         </script>
+        
   </body>
 </html>

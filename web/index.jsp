@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 11-oct-2016, 8:46:54
-    Author     : jrodarte
+    Author     : alrodriguez
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

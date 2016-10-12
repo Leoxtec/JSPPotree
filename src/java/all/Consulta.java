@@ -13,7 +13,7 @@ import java.util.LinkedList;
 
 /**
  *
- * @author jrodarte
+ * @author alrodriguez
  */
 public class Consulta {
     public static LinkedList<mapas> getMapas(int id)

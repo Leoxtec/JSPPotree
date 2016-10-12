@@ -8,7 +8,7 @@ package all;
 
 /**
  *
- * @author jrodarte
+ * @author alrodriguez
  */
 public class mapas {
     int num;
